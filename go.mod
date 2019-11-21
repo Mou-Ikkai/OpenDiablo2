@@ -13,7 +13,7 @@ require (
 	github.com/ianlancetaylor/demangle v0.0.0-20181102032728-5e5cf60278f6 // indirect
 	github.com/mewspring/tools v0.0.0-20191031203036-122e7c80ae0a // indirect
 	github.com/mitchellh/go-homedir v1.1.0
-	github.com/pkg/profile v1.3.0
+	github.com/pkg/profile v1.4.0
 	golang.org/x/exp v0.0.0-20191030013958-a1ab85dbe136 // indirect
 	golang.org/x/lint v0.0.0-20190930215403-16217165b5de // indirect
 	golang.org/x/mobile v0.0.0-20191031020345-0945064e013a // indirect
